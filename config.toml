@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "My blog"
-theme = "ghostwriter"
+title = "Niek de Win"
+theme = "etch"
 
 [Params]
     mainSections = ["post"]

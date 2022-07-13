@@ -1,5 +1,5 @@
 ---
-title: "Good Life"
+title: "Recommended reading: The Art of the Good Life"
 date: 2022-07-12T21:07:49+02:00
 ---
 
