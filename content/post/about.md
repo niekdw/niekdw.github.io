@@ -1,17 +1,6 @@
 +++
 title = "About"
-description = ""
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
+date = "2022-17-01"
 menu = "main"
 +++
 
