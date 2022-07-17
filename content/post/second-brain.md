@@ -1,9 +1,7 @@
 ---
-title: "Book notes: Building a Second Brain"
+title: "Book notes: Building a Second Brain - Tiago Forte"
 date: 2022-07-16T21:07:49+02:00
 ---
-
-# Building a Second Brain - Tiago Forte
 
 Unlike modern readers, who follow the fow of a narrative from beginning to end, early modern 
 Englishmen read in fts and  starts and jumped from book to book. They broke texts into fragments and assembled them.

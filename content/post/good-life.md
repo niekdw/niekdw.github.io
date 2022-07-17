@@ -1,9 +1,8 @@
 ---
-title: "Book notes: The Art of the Good Life"
+title: "Book notes: The Art of the Good Life - William Irvine"
 date: 2022-07-12T21:07:49+02:00
 ---
 
-# The Art of the Good Life - William Irvine
 - People are unhappy because they are confused of what is valuable. And in the act of pursuing those things that they think are valuable, experience anxiety, anger, and regret.
 - It is important of consciously chosing a philosophy of life - instead of defaulting to the default form of hedonism (seeking social status, affluence and pleasure).
 	- Simplifies life's big decisions, by matching them to a set of predefined values 
