@@ -1,5 +1,6 @@
 ---
 title: "Book notes: The Art of the Good Life - William Irvine"
+tags: books
 date: 2022-07-12T21:07:49+02:00
 ---
 
