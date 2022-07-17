@@ -1,6 +1,6 @@
 ---
 title: "Book notes: Building a Second Brain"
-date: 2022-07-17T21:07:49+02:00
+date: 2022-07-16T21:07:49+02:00
 ---
 
 # Building a Second Brain - Tiago Forte
