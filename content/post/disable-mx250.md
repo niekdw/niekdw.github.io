@@ -3,6 +3,8 @@ title: "Disable dGPU on T490 in Linux"
 date: 2022-07-20T21:07:49+02:00
 ---
 
+To ensure acceptable battery usage on a ThinkPad T490 with a NVIDIA MX250, the dGPU needs to be turned off manually.
+
 Check power current power state of dGPU. D0 means it is consuming power right now.
 
 ```
