@@ -12,7 +12,7 @@ lspci | grep -i nvidia
 cat /sys/bus/pci/devices/0000:3c:00.0/firmware_node/power_state
 ```
 
-Add to ```/etc/X11/nvidia-xorg.conf```
+Add to **/etc/X11/nvidia-xorg.conf**
 
 ```
 Section "Device"
@@ -43,7 +43,7 @@ Disable at boot
 echo options bbswitch load_state=0 unload_state=1 > /etc/modprobe.d/bbswitch.conf
 ```
 
-Add to ```/etc/modprobe.d/blacklist.conf```
+Add to **/etc/modprobe.d/blacklist.conf**
 ```
 blacklist nouveau
 blacklist nvidia-drm
