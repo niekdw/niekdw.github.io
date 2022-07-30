@@ -25,14 +25,14 @@ Section "Device"
 Load bbswitch modules at boot
 ```
 echo bbswitch > /etc/modules-load.d/bbswitch.conf
-# grub-mkconfig -o /boot/grub/grub.cfg
+grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
 Turn on/off, and check state
 
 ```
-# echo OFF > /proc/acpi/bbswitch
-# echo ON > /proc/acpi/bbswitch 
+echo OFF > /proc/acpi/bbswitch
+echo ON > /proc/acpi/bbswitch 
 cat /proc/acpi/bbswitch
 ```
 Disable at boot
