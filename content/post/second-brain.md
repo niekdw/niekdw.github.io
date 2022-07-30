@@ -4,8 +4,6 @@ tags: books
 date: 2022-07-16T21:07:49+02:00
 ---
 
-Hello Niek
-
 Unlike modern readers, who follow the fow of a narrative from beginning to end, early modern 
 Englishmen read in fts and  starts and jumped from book to book. They broke texts into fragments and assembled them.
 
