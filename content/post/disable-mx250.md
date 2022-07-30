@@ -19,6 +19,29 @@ Section "Device"
       BusID "PCI:60:0:0"
       EndSection
 ``
-kefofkef 
 
-asdfsdfasf
+Load bbswitch modules at boot
+```
+echo bbswitch > /etc/modules-load.d/bbswitch.conf
+# grub-mkconfig -o /boot/grub/grub.cfg
+```
+
+Turn on/off, and check state
+
+```
+# echo OFF > /proc/acpi/bbswitch
+# echo ON > /proc/acpi/bbswitch 
+cat /proc/acpi/bbswitch
+```
+Disable at boot
+```
+echo options bbswitch load_state=0 unload_state=1 > /etc/modprobe.d/bbswitch.conf
+```
+
+Add to ```/etc/modprobe.d/blacklist.conf```
+````
+blacklist nouveau
+blacklist nvidia-drm
+blacklist nvidia-modeset
+blacklist nvidia-uvm
+blacklist nvidia
