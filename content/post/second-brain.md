@@ -125,7 +125,7 @@ make up your work.*
 
 Like LEGO blocks, the more pieces you have, the easier it is to build something interesting. 
 Imagine that instead of starting your next project with a blank slate, you started with a set of 
-building blocks—research fndings, web clippings, PDF highlights, book notes, back-of-theenvelope sketches—that represent your long-term effort to make sense of your feld, your 
+building blocks—research fndings, web clippings, PDF highlights, book notes, back-of-the- envelope sketches—that represent your long-term effort to make sense of your feld, your 
 industry, and the world at large.
 
 Reframing your productivity in terms of Intermediate Packets is a major step toward this turning 
